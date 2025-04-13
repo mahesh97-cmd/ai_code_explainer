@@ -1,3 +1,7 @@
+### 🌐 Live Demo
+
+👉 [Check the Live App Here](https://ai-code-explainer-omega.vercel.app/)
+
 # 🧠 Code Explainer
 
 An AI-powered tool that takes a code snippet and explains it in simple terms. Built with the **React** frontend and powered by a backend API for detailed code analysis and explanation.
